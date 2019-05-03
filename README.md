@@ -1,2 +1,3 @@
 # ABC
-Mr Buoi da tao tai day
+## Demo Git - ca 2 cho lop
+1. Nguyen Thi Thanh Thao
